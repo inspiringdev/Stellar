@@ -136,11 +136,12 @@ STELLAR (LLM) vs Vanilla PPO vs Random — sum rate vs iterations/episodes.
 
 **Figure 3a: Rate vs Number of Users (K)**
 Achievable Rate vs number of GSs (K ∈ {2,3,4,5,6}, Nt=12)
-![Rate vs K](experiments/results/fig3a_rate_vs_k.png)
+![Rate vs K](experiments/results/fig3a_rate_vs_K.png)
+
 
 **Figure 3b: Rate vs Number of Transmit Antennas (Nt)**
 Achievable Rate vs Nt for K=4.
-![Rate vs Nt](experiments/results/fig3b_rate_vs_nt.png)
+![Rate vs Nt](experiments/results/fig3b_rate_vs_Nt.png)
 
 **Figure 4: RSMA vs SDMA**
 Achievable Rate vs GS number (STELLAR+RSMA vs STELLAR+SDMA)
