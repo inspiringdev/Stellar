@@ -1,6 +1,6 @@
 import os
-os.environ["OPENAI_API_KEY"] = "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"  # ← paste your key
-os.environ["GEMINI_API_KEY"] = "AIzaSyCVR2oapy8JQ1HqOGiY7YENLq1Aj5VgpfI"
+os.environ["OPENAI_API_KEY"] = "yourkey"  # ← paste your key
+os.environ["GEMINI_API_KEY"] = "yourkey"
 import sys
 import logging
 import numpy as np
